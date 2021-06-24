@@ -1534,14 +1534,17 @@ color: #f00;
 
 @media only screen and (max-width: 600px)  {
     .header-h1{
-        margin-top: 35rem;
+        margin-top: 28rem;
+        margin-right: 40px;
         font-size: 2rem;
-        color: blue;
+        color: black;
         padding: 10px 2px 2px 2px;
     }
     .bng-img{
-        border-radius: 15px;
+        border-radius: 30px;
         margin-top: 32rem;
+        height: auto;
+        width: 23rem;
     }
     .bride-n-groom{
         color: crimson;
